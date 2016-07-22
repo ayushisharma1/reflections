@@ -1,0 +1,4 @@
+1.How did viewing a diff between two versions of a file help you see the bug that was introduced?
+Ans: When we see the diff between two versions of files it tells us the things which are added or
+removed from the old version of file.By checking it we can see the bug which is introduced in the new
+version of file.
